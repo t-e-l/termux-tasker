@@ -6,4 +6,3 @@ Termux updates get merged with [pull](https://github.com/wei/pull) and build wit
 
 ## Download from [releases](https://github.com/t-e-l/termux-tasker/releases)
 
-
